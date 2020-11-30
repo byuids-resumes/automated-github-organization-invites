@@ -29,3 +29,15 @@ All you have to do is
 ### Credit 
 
 Thanks to *[Code, Applied To Life](https://medium.com/code-applied-to-life/automated-github-organization-invites-3e940aa27040#.sikfvzyaj)* for their efforts which were used as a base for this.
+
+## BYU-I Notes
+
+We can run one free app on Heroku (https://signup.heroku.com/). The course lead will create a new app for each semester to automate the process of students joining the group and the respective semester team. We will just keep the link active for the final project of CSE-250.  All other members can be manually added throught Github.
+
+1. _App name:_ whatever you want
+2. _BACKGROUND_COLOR:_ blue
+3. _GITHUB_TOKEN:_ https://github.com/settings/tokens and make sure you have admin access to the group.
+4. _ORGANIZATION_NAME:_ byuids-resumes
+5. _TEAM_NAME:_ Under [CSE-250](https://github.com/orgs/byuids-resumes/teams/cse-250) create a new team for the current semester with year (e.g fall_2020)
+6. Deploy app and use link _App name_.herokuapp.com
+7. delete app at the end of the semester under app settings https://dashboard.heroku.com/apps/_App name_/settings
