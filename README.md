@@ -36,7 +36,7 @@ We can run one free app on Heroku (https://signup.heroku.com/). The course lead 
 
 1. _App name:_ whatever you want
 2. _BACKGROUND_COLOR:_ blue
-3. _GITHUB_TOKEN:_ https://github.com/settings/tokens and make sure you have admin access to the group.
+3. _GITHUB_TOKEN:_ https://github.com/settings/tokens and make sure you have admin access to the group and just check the `admin:org` boxes.
 4. _ORGANIZATION_NAME:_ byuids-resumes
 5. _TEAM_NAME:_ Under [CSE-250](https://github.com/orgs/byuids-resumes/teams/cse-250) create a new team for the current semester with year (e.g fall_2020)
 6. Deploy app and use link _App name_.herokuapp.com
